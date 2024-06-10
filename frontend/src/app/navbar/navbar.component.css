@@ -1,0 +1,7 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+a{
+    color: rgb(137, 9, 205);
+    text-decoration: none;
+}
